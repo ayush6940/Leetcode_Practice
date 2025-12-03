@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ayush6940/Leetcode_Practice/tree/master/0009-palindrome-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ayush6940/Leetcode_Practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-prime-in-diagonal](https://github.com/ayush6940/Leetcode_Practice/tree/master/2614-prime-in-diagonal) |
 ## Matrix
