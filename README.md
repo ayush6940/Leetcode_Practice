@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayush6940/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
+| [0832-flipping-an-image](https://github.com/ayush6940/Leetcode_Practice/tree/master/0832-flipping-an-image) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ayush6940/Leetcode_Practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2562-find-the-array-concatenation-value](https://github.com/ayush6940/Leetcode_Practice/tree/master/2562-find-the-array-concatenation-value) |
 | [2614-prime-in-diagonal](https://github.com/ayush6940/Leetcode_Practice/tree/master/2614-prime-in-diagonal) |
@@ -12,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush6940/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0832-flipping-an-image](https://github.com/ayush6940/Leetcode_Practice/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ayush6940/Leetcode_Practice/tree/master/0844-backspace-string-compare) |
 | [2562-find-the-array-concatenation-value](https://github.com/ayush6940/Leetcode_Practice/tree/master/2562-find-the-array-concatenation-value) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/ayush6940/Leetcode_Practice/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ayush6940/Leetcode_Practice/tree/master/0844-backspace-string-compare) |
 | [2562-find-the-array-concatenation-value](https://github.com/ayush6940/Leetcode_Practice/tree/master/2562-find-the-array-concatenation-value) |
 ## Math
@@ -28,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/ayush6940/Leetcode_Practice/tree/master/0832-flipping-an-image) |
 | [2614-prime-in-diagonal](https://github.com/ayush6940/Leetcode_Practice/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
 |  |
@@ -53,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush6940/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/ayush6940/Leetcode_Practice/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
