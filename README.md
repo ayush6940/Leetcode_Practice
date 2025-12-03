@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayush6940/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
+| [0169-majority-element](https://github.com/ayush6940/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush6940/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/ayush6940/Leetcode_Practice/tree/master/0832-flipping-an-image) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ayush6940/Leetcode_Practice/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayush6940/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ayush6940/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush6940/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -77,5 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayush6940/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush6940/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayush6940/Leetcode_Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayush6940/Leetcode_Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
