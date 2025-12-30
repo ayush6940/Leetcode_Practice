@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayush6940/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/ayush6940/Leetcode_Practice/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ayush6940/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush6940/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/ayush6940/Leetcode_Practice/tree/master/0832-flipping-an-image) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/ayush6940/Leetcode_Practice/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ayush6940/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ayush6940/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush6940/Leetcode_Practice/tree/master/0349-intersection-of-two-arrays) |
